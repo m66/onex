@@ -1,0 +1,15 @@
+.second-container{
+    width: 90%;
+    margin: 50px auto;
+    font-family: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .container {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+    }
+}
