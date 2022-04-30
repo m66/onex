@@ -12,7 +12,7 @@ function Card(props) {
         cursor: 'pointer'
     }
     return (
-        <div  style={style}>
+        <div style={style}>
             <img className='ads-img' src={`https://onex.am/images/shops/svg/${props.url}`} />
         </div>
     );

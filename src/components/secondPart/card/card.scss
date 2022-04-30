@@ -2,3 +2,11 @@
     height: 100%;
     width: 100%;
 }
+
+// @function line($base, $exponent) {
+//     $result: 1;
+//     @for $_ from 1 through $exponent {
+//       $result: $result * $base;
+//     }
+//     @return $result;
+//   }
